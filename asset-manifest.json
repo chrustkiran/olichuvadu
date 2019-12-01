@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/olichuvadu/static/css/main.b100e6da.chunk.css",
+    "main.js": "/olichuvadu/static/js/main.7295dab4.chunk.js",
+    "main.js.map": "/olichuvadu/static/js/main.7295dab4.chunk.js.map",
+    "runtime-main.js": "/olichuvadu/static/js/runtime-main.c0c2bda5.js",
+    "runtime-main.js.map": "/olichuvadu/static/js/runtime-main.c0c2bda5.js.map",
+    "static/css/2.90172c5a.chunk.css": "/olichuvadu/static/css/2.90172c5a.chunk.css",
+    "static/js/2.9f5579be.chunk.js": "/olichuvadu/static/js/2.9f5579be.chunk.js",
+    "static/js/2.9f5579be.chunk.js.map": "/olichuvadu/static/js/2.9f5579be.chunk.js.map",
+    "index.html": "/olichuvadu/index.html",
+    "precache-manifest.7f8854587c9b08f1a138a95c1cac2252.js": "/olichuvadu/precache-manifest.7f8854587c9b08f1a138a95c1cac2252.js",
+    "service-worker.js": "/olichuvadu/service-worker.js",
+    "static/css/2.90172c5a.chunk.css.map": "/olichuvadu/static/css/2.90172c5a.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/olichuvadu/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0c2bda5.js",
+    "static/css/2.90172c5a.chunk.css",
+    "static/js/2.9f5579be.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.7295dab4.chunk.js"
+  ]
+}
